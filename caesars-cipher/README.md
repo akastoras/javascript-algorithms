@@ -24,7 +24,7 @@ In this solution, in order to simplify the code, i split the main problem to sma
   * list.length -> returns a list's length
   
   ##### RegEx:
-    A regular expression (RegEx) is a sequence of characters that define a search pattern. The method regEx.test(string) which we use, checks if the defined regEx can be found in the given string. This way we simplify searching. 
-    If you aren't familiar with regular expressions i suggest you to check [freeCodeCamp.org's](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/) section on them. You can find it inside the course "Javascript Algorithm's and data structures".
+   A regular expression (RegEx) is a sequence of characters that define a search pattern. The method regEx.test(string) which we use, checks if the defined regEx can be found in the given string. This way we simplify searching. 
+   If you aren't familiar with regular expressions i suggest you to check [freeCodeCamp.org's](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/) section on them. You can find it inside the course "Javascript Algorithm's and data structures".
 
  [ROT13](https://en.wikipedia.org/wiki/ROT13)
