@@ -5,8 +5,8 @@ A series of projects on algorithms and data structures from freeCodeCamp.org's c
 
 ## Includes
 In each folder you will find:
-* The .js file with the solution
-* A README with a short explanation
+  * The .js file with the solution
+  * A README with a short explanation
 
 ## Recommendation
 If you're interesting in learning about algorithms and data structures, these projects are a good start. Although you shouldn't start by looking at my code, but by visiting [freeCodeCamp.org](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/) and practicing in their code playground.
