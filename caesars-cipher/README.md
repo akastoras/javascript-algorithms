@@ -12,8 +12,8 @@ All letters will be uppercase. Do not transform any non-alphabetic character (i.
 ## Solution
 In this solution, in order to simplify the code, i split the main problem to smaller ones. I will create a function to decode a single character, and then use it to decode the main string.
   * First we have to write this function. Keep in mind that there are 2 cases:
-  1. The character's ascii value plus 13 is less than Z's ascii value so we just return the character which's ascii value is the first characters ascii value plus 13,
-  2. else we need to compute the new ascii value taking in mind how rot13 works
+    1. The character's ascii value plus 13 is less than Z's ascii value so we just return the character which's ascii value is the first characters ascii value plus 13,
+    2. else we need to compute the new ascii value taking in mind how rot13 works
   * Then we need to parse the starting string and decode each alphanumeric character
    
 ## Methods used
