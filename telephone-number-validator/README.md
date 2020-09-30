@@ -17,4 +17,4 @@ For this challenge you will be presented with a string such as 800-692-7753 or 8
 For this problem we will create a list of regexes to check if a number has one of the given forms. Notice that many forms coresponde to one regex.
 
 ## Methods
-All methods for this problem are explained at the ceasars-cipher project, except reduce() method, which is too complicated to explain shortly if you want to learn more [click here] (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce).
+All methods for this problem are explained at the ceasars-cipher project, except reduce() method, which is too complicated to explain shortly if you want to learn more [click here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce).
