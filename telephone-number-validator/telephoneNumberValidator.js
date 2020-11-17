@@ -7,10 +7,9 @@ var validFormats = [
 
 function telephoneCheck(str) {
   return validFormats.reduce((isValid, format) => {
-    if (format.test(str)) {
+    if (format.test(str)) 
       return true;
-    } else {
-      return isValid
-    }
+    else
+      return isValid;
   }, false);
 }
